@@ -21,6 +21,3 @@
 - **Lua**
 - **Visual Studio Code**
 - **GitHub**
-
-![](https://github-readme-stats.vercel.app/api?username=PredicateFunction&show_icons=true&theme=cobalt)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PredicateFunction&langs_count=8&theme=cobalt)
